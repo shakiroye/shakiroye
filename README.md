@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shakir OYEOSSI
-- 💻 I’m Web & Mobile Developper and an  Enthusiast of UX/UI Design
+- 💻 I’m Web & Mobile Developper and an Enthusiast of UX/UI Design😊
 - 📫 oyeossiadewoye@gmail.com
 
 <!---
