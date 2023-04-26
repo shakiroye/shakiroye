@@ -1,7 +1,7 @@
 ## 👋 Hi there, it is Shakir OYEOSSI
 - 💻 I’m FullStack Web & Mobile Developper and an Enthusiast of UX/UI Design😊
 - 📫 oyeossiadewoye@gmail.com
-- 🌱 I’m currently learning Typescript and Go<br>
+- 🌱 I’m currently learning Typescript<br>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakiroye) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shakiroye) 
