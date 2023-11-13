@@ -1,5 +1,5 @@
 ## 👋 Hi there, it is Shakir OYEOSSI
-- 💻 I’m FullStack Web & Mobile Developper and an Enthusiast of UX/UI Design😊
+- 💻 Work on data, softwares and an enthusiast of UX/UI Design😊
 - 📫 oyeossiadewoye@gmail.com
 
 
