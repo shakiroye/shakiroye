@@ -1,5 +1,5 @@
 ## 👋 Hi there, it is Shakir OYEOSSI
-- 💻 Work on data and softwares
+- 💻 I work on data and softwares
 - ✨ Enthusiast of AI and UX/UI Design
 - 📫 oyeossiadewoye@gmail.com
 
