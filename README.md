@@ -12,3 +12,5 @@
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakiroye&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=shakiroye&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true) -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shakiroye&theme=vue-dark&hide_border=true)<br/>
+
+## Some projects I am working on ⏬:
